@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mischa24
 - 👀 I’m interested in data analysis and science
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Development
+- 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me 0
 - 😄 Pronouns: NON
 - ⚡ Fun fact: yeah
